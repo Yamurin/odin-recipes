@@ -1,0 +1,44 @@
+* {
+    background-color:rgb(250, 242, 232);
+    color:rgb(40, 6, 6);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 { 
+    font-size: 42px;
+    text-align: center;
+}
+
+small {
+    text-align: center;
+    font-style: italic;
+}
+
+h1, 
+h3 {
+    font-family: cursive;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+h1 > em {
+    font-family: cursive;
+    font-size: 34px;
+}
+strong {
+    color:brown;
+}
+
+ul a {
+    color: green;
+}
+
+.button#home {
+    background-color: rgb(40, 6, 6);
+    color: rgb(250, 242, 232);
+    padding: 10px;
+    border-radius: 20px;
+    
+}
