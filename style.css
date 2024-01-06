@@ -9,7 +9,8 @@ h1 {
     text-align: center;
 }
 
-small {
+small
+{
     text-align: center;
     font-style: italic;
 }
@@ -40,5 +41,9 @@ ul a {
     color: rgb(250, 242, 232);
     padding: 10px;
     border-radius: 20px;
-    
+
+}
+
+.description {
+    text-align: center;
 }
